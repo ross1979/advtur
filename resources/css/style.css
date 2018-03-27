@@ -1,0 +1,81 @@
+body {
+
+}
+
+div {
+  border-radius: 5px;
+}
+.container {
+
+}
+
+.master {
+
+}
+
+.content {
+  margin-left: 20px;
+}
+
+.top {
+    background-color: skyblue;
+    display: inline-flex;
+    align-items: center;
+}
+.carousel {
+    background-color: red;
+    height: 190px;
+    width: 300px;
+}
+.info {
+    background-color: silver;
+    height: 190px;
+    width: 600px;
+    z-index: 10;
+    display:;
+}
+
+.mid {
+    background-color: green;
+    display: inline-flex;
+    align-items: center;
+}
+
+.intro {
+  background-color: yellow;
+  width: 600px;
+  height: 190px;
+  z-index: 10;
+}
+
+.logo {
+  display: flex;
+  background-color: navy;
+  width: 220px;
+  height: 220px;
+  border-radius: 110px;
+  align-items: center;
+  z-index: 20;
+}
+
+.advntur {
+  color: white;
+  font-weight: bold;
+}
+.bottom {
+    background-color: orange;
+    display: inline-flex;
+    align-items: center;
+}
+
+.about {
+    background-color: skyblue;
+    height: 190px;
+    width: 600px;
+    z-index: 10;
+}
+
+.top, .mid, .bottom {
+  height: 200px;
+  width: 900px;
+}
